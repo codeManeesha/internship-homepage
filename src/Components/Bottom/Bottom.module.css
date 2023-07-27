@@ -1,0 +1,64 @@
+.container{
+    border:1px solid green;
+    height:90vh;
+    width:83rem;
+    /* margin:10px; */
+    display: flex;
+    gap:2rem;
+}
+.left{
+ height:80vh;
+ border:1px solid blue;
+ width:50rem;
+ margin:25px;
+}
+.right{
+    height:80vh;
+    border:1px solid blue;
+    width:55rem;
+    margin:25px;
+    background:  linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    border-radius: 1rem;
+    padding-left:60px;
+   }
+   .one{
+    border:1px solid white;
+    height:9rem;
+    width:30rem;
+    margin:20px;
+    background-color: rgb(188, 245, 214);
+    border-radius: 1rem;
+    display: flex;
+    gap:2rem;
+    
+   }
+   .three{
+    border:1px solid white;
+    height:10rem;
+    width:30rem;
+    margin:20px;
+    background-color: rgb(188, 245, 214);
+    border-radius: 1rem;
+    display: flex;
+    gap:2rem;
+   }
+   .two{
+    border:1px solid white;
+    height:9rem;
+    width:30rem;
+    margin:20px;
+    background-color: rgb(188, 245, 214);
+    border-radius: 1rem;
+    display: flex;
+    gap:2rem;
+   }
+
+   .vsc{
+    margin:40px;
+   }
+   .bsf{
+    margin:40px;
+   }
+   .pic{
+    margin:40px;
+   }

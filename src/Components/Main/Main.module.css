@@ -1,0 +1,48 @@
+.main{
+   
+    display:flex;
+    gap: 5rem;
+    height:70vh;
+    padding:10px;
+    margin:10px;
+}
+.left{
+  
+    width:50rem;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+    
+}
+.right{
+   
+    width:30rem;
+    padding: 20px;
+    color: rgb(176, 224, 247);
+}
+#button{
+    background-color: rgb(1, 60, 94);
+    width:15rem;
+    height:3rem;
+    font-size: large;
+    border-style: none;
+}
+.btn{
+    display:flex;
+    gap:4rem;
+}
+#button1{
+    width:8rem;
+}
+.star{
+    margin-top: 2rem;
+    display: flex;
+    gap:1rem;
+    margin-left: 1rem;
+}
+#str{
+    color: black;
+    font-weight: 500;
+    
+}
+
