@@ -12,7 +12,7 @@
     color:white;
     margin:10px;
    
-    border:2px solid red;
+   
 }
 .one{
     height:20rem;
@@ -41,7 +41,7 @@
     background-color: black;
     border-radius: 1rem;
     margin: 30px;
-    border: 1px solid red;
+   
     display: flex;
     gap:3rem;
   
@@ -158,9 +158,10 @@
 }
 
 .ChartAbout{
-    border: 1px solid red;
+  
     height:20rem;
     width:20rem;
+    margin-top: 40px;;
 }
 .chart{
     width:30rem;

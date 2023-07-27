@@ -1,5 +1,5 @@
 .container{
-    border:1px solid green;
+   
     height:90vh;
     width:83rem;
     /* margin:10px; */
@@ -8,13 +8,16 @@
 }
 .left{
  height:80vh;
- border:1px solid blue;
+
  width:50rem;
- margin:25px;
+ margin-top:20px;
+ color: white;
+ padding:20px;
+ font-size: larger;
 }
 .right{
-    height:80vh;
-    border:1px solid blue;
+    height:88vh;
+  
     width:55rem;
     margin:25px;
     background:  linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);

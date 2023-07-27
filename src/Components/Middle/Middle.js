@@ -52,8 +52,23 @@ function Middle(){
                     <div className={style.pie}></div>
                    
                 </div>
+                
                 <div className={style.ChartAbout}>
-
+                <p>
+                    Service Name<br></br>
+1,000 Instagram Real Followers
+                    </p>
+                    <p>
+                    Provider Rate<br></br>
+$0.49
+                    </p>
+                    <p>
+                    Selling Rate<br></br>
++ $0.98
+                    </p>
+                    <p>
+                    Profit: 100% = $0.49
+                    </p>
                 </div>
                 <div className={style.chart}>
                         <h2>Automated Order Processing System</h2>
